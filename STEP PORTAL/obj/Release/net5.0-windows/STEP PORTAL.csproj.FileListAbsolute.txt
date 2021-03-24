@@ -1,0 +1,33 @@
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\STEP PORTAL.exe
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\STEP PORTAL.deps.json
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\STEP PORTAL.runtimeconfig.json
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\STEP PORTAL.runtimeconfig.dev.json
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\STEP PORTAL.dll
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\ref\STEP PORTAL.dll
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\bin\Release\net5.0-windows\STEP PORTAL.pdb
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.csprojAssemblyReference.cache
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Add_New_Student.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Add_new_teacher.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Add_student_group.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Creat_new_group.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Delete_group.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Delete_student_group.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Form1.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Koordinator_Login.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Print_groups.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Print_Student.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Print_Teacher.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Properties.Resources.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Student_Login.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Teacher_Login.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Teacher_look_gmail.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP_PORTAL.Teacher_Menu.resources
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.csproj.GenerateResource.cache
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.AssemblyInfoInputs.cache
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.AssemblyInfo.cs
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.csproj.CoreCompileInputs.cache
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.dll
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\ref\STEP PORTAL.dll
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.pdb
+C:\Users\Haciy\source\repos\STEP PORTAL\STEP PORTAL\obj\Release\net5.0-windows\STEP PORTAL.genruntimeconfig.cache
